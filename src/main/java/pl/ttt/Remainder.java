@@ -19,7 +19,6 @@ public class Remainder {
 //        list.add(20);
 //        list.add(10);
 //        list.add(5);
-
         while (amount > 0) {
             int currentNominal = nominals[index];
             if (currentNominal < amount) {
