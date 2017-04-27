@@ -2,7 +2,6 @@ package pl.ttt;
 
 import java.util.List;
 import java.util.ArrayList;
-
 /**
  * Created by RENT on 2017-11-30.
  */
