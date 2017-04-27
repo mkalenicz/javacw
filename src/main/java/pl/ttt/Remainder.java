@@ -20,7 +20,7 @@ public class Remainder {
        int cash5  = 0;
         int cash2  = 0;
         int cash1  = 0;
-
+edfwf
         if (cash / 500 == 0) {
         int cash500 = 1;
         } else {
