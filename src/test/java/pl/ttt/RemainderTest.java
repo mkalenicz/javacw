@@ -23,7 +23,9 @@ public class RemainderTest {
         changeList.add(100);
 
         //
-        assertEquals();
+        assertEquals(changeList.size(),Remainder.getChange(amount).size());
+        assertEquals(changeList.get(0), Remainder.getChange(amount).get(0));
+        assertEquals(changeList.get(1), Remainder.getChange(amount).get(1));
     }
 
 
